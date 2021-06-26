@@ -13,7 +13,7 @@ Performance metrics for Modelling and Prediction  for the below Datasets conside
 **A link to Aqueduct water risk indicators
 
 
-![WaterResorvoir](./images/Hackathon_Data_Preview.png)
+![WaterResorvoir](./Images/Hackathon_Data_Preview.png)
 
 
 
