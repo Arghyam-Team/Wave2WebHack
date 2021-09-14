@@ -6,6 +6,31 @@ Artificial intelligence or machine-learning-based forecasting of reservoir water
 
 Performance metrics for Modelling and Prediction  for the below Datasets considered are 
 
+Monitoring water levels can have numerous environmental benefits and is a popular measurement for a number of different industries and organisations. Below we will discuss some of the common applications water level monitoring devices, as well as some of the valuable insights that recording this can reveal.
+Remote water level monitoring
+
+Whereas water level monitoring used to be done by manually, with engineers sent to record levels of water on a fixed, often monthly basis, the ever-increasing improvements to technology means that water level monitoring can now be done remotely.
+
+Telemetric devices allow for water levels to be recorded much more regularly. This data can then be sent to other devices over great distances which allows for greater response capabilities and ease of use.
+
+In addition, remote water level monitoring also carry a number of other benefits including improved accuracy and reduced risk of human errors.
+Common applications for water level monitoring
+
+As well as time-saving benefits, water level monitoring can have a wide variety of environmental benefits, such as improved visibility on potential flood situations. By utilising water level monitoring systems, it is much easier to rapidly deploy countermeasures in the event that levels become too high or low.
+
+Water level loggers feature highly sensitive pressure sensors which can detect the smallest of changes to water level and can send alerts to preferred contacts alerting them to the situation.
+
+This benefit means that water level monitoring is commonly used in some of the following applications:
+
+    Flood monitoring
+    River level monitoring
+    Wetland studies
+    Tidal studies
+    Groundwater monitoring
+    Surface water monitoring
+
+
+
 
 
 **Daily reservoir water data for the 4  reservoirs Kabini,Harangi,Hemavathi,KSR
